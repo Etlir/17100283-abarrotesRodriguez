@@ -1,0 +1,23 @@
+{
+  "name": "abarrotesrodriguez",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto html",
+  "main": "index.html",
+  "scripts": {
+    " dev " : " lite-server ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etlir/17100283-abarrotesRodriguez.git"
+  },
+  "author": "Elliot Rodriguez Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Etlir/17100283-abarrotesRodriguez/issues"
+  },
+  "homepage": "https://github.com/Etlir/17100283-abarrotesRodriguez#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
